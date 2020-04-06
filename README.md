@@ -1,6 +1,6 @@
 # HmmViewTool
 
-View specific methods for applications I use.
+ View specific methods for applications I use.
 
 ## Installation
 
@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+HmmViewTool::Renderer.copyright "Hannah Melton", "All Rights Reserved."
+```
 
 ## Development
 
